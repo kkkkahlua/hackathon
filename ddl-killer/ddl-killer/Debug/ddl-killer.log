@@ -1,0 +1,5 @@
+﻿  main.cpp
+f:\compile\vsme\ddl-killer\ddl-killer\main.cpp(317): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+f:\compile\vsme\ddl-killer\ddl-killer\main.cpp(363): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ddl-killer.vcxproj -> F:\compile\vsme\ddl-killer\Debug\ddl-killer.exe
+  ddl-killer.vcxproj -> F:\compile\vsme\ddl-killer\Debug\ddl-killer.pdb (Full PDB)
